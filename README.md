@@ -20,5 +20,5 @@ A powerful Python tool to extract business details from Google Maps, including b
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/BusinessLeadScraper.git
+git clone https://github.com/zerodbg/LeadExtractorPro.git
 cd BusinessLeadScraper
